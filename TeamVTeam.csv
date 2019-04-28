@@ -1,0 +1,97 @@
+Team 1 (Home Team),Team 2 (Away Team),Kill,Death,Assist,KDA ,Win
+100 Thieves,Team SoloMid,14,8,48,7.75,Yes
+100 Thieves,Echo Fox,16,7,41,8.142857143,Yes
+100 Thieves,Cloud9,16,2,45,30.5,Yes
+100 Thieves,Team Liquid,13,5,35,9.6,Yes
+Cloud9,Team Liquid,5,10,13,1.8,No
+Cloud9,Counter Logic Gaming,15,18,35,2.777777778,No
+Cloud9,Echo Fox,6,16,16,1.375,No
+Cloud9,FlyQuest,8,17,26,2,No
+Clutch Gaming,100 Thieves,5,12,10,1.25,No
+Clutch Gaming,Cloud9,5,13,7,0.9230769231,No
+Clutch Gaming,Echo Fox,9,5,27,7.2,Yes
+Clutch Gaming,Team SoloMid,5,11,9,1.272727273,No
+Counter Logic Gaming,100 Thieves,3,14,9,0.8571428571,No
+Counter Logic Gaming,Clutch Gaming,5,11,15,1.818181818,No
+Counter Logic Gaming,OpTicGaming,5,13,7,0.9230769231,No
+Counter Logic Gaming,Golden Guardians,8,15,20,1.866666667,No
+Echo Fox,Counter Logic Gaming,6,19,18,1.263157895,No
+Echo Fox,FlyQuest,15,8,47,7.75,Yes
+Echo Fox,Team SoloMid,7,18,4,0.6111111111,No
+Echo Fox,OpTicGaming,16,11,38,4.909090909,Yes
+FlyQuest,Counter Logic Gaming,14,20,28,2.1,No
+FlyQuest,Team Liquid,7,11,19,2.363636364,No
+FlyQuest,100 Thieves,6,13,16,1.692307692,No
+FlyQuest,Golden Guardians,16,5,41,11.4,Yes
+Golden Guardians,Cloud 9,10,17,25,2.058823529,No
+Golden Guardians,Echo Fox,24,12,58,6.833333333,Yes
+Golden Guardians,100 Theives,3,10,9,1.2,No
+Golden Guardians,Team Liquid,18,10,52,7,Yes
+OpTicGaming,Cloud9,5,16,9,0.875,No
+OpTicGaming,Clutch Gaming,1,10,3,0.4,No
+OpTicGaming,100 Thieves,2,14,4,0.4285714286,No
+OpTicGaming,Team SoloMid,2,14,2,0.2857142857,No
+Team Liquid,Team SoloMid,6,17,19,1.470588235,No
+Team Liquid,Counter Logic Gaming,3,15,7,0.6666666667,No
+Team Liquid,OpTicGaming,18,10,40,5.8,Yes
+Team Liquid,Echo Fox,4,11,7,1,No
+Team SoloMid,Cloud9,14,5,35,9.8,Yes
+Team SoloMid,FlyQuest,9,14,23,2.285714286,No
+Team SoloMid,Counter Logic Gaming,18,5,48,13.2,Yes
+Team SoloMid,Golden Guardians,10,1,16,26,Yes
+Phoenix1,Team SoloMid,4,23,5,0.3913043478,No
+Phoenix1,Cloud9,4,20,8,0.6,No
+Phoenix1,Immortals,18,13,38,4.307692308,Yes
+Phoenix1,Team Liquid,21,15,60,5.4,Yes
+Immortals,Cloud9,10,25,17,1.08,No
+Immortals,Counter Logic Gaming,18,10,33,5.1,Yes
+Immortals,Dignitas,24,29,44,2.344827586,No
+Immortals,Team SoloMid,5,20,11,0.8,No
+EnVyUs,Counter Logic Gaming,10,21,15,1.19047619,No
+EnVyUs,Echo Fox,12,7,27,5.571428571,Yes
+EnVyUs,Cloud9,5,14,12,1.214285714,No
+EnVyUs,Team Liquid,18,24,31,2.041666667,No
+Dignitas,Immortals,16,9,43,6.555555556,Yes
+Dignitas,Tean Liquid,18,7,49,9.571428571,Yes
+Dignitas,EnVyUs,22,13,51,5.615384615,Yes
+Dignitas,Cloud9,20,17,46,3.882352941,No
+Renegades,Dignitas,13,17,44,3.352941176,Yes
+Renegades,Cloud9,14,10,29,4.3,No
+Renegades,Team Liquid,18,12,51,5.75,Yes
+Renegades,Team SoloMid,18,28,42,2.142857143,No
+NRG Esports,Dignitas,8,2,23,15.5,Yes
+NRG Esports,Cloud9,14,20,34,2.4,No
+NRG Esports,Renegades,7,2,26,16.5,Yes
+NRG Esports,Team SoloMid,19,0,56,75,Yes
+Team Impulse,Counter Logic Gaming,3,16,5,0.5,No
+Team Impulse,Immortals,12,21,25,1.761904762,No
+Team Impulse,Echo Fox,3,12,8,0.9166666667,No
+Team Impulse,Dignitas,12,7,28,5.714285714,Yes
+Apex Gaming,Counter Logic Gaming,16,5,33,9.8,Yes
+Apex Gaming,Team Liquid,25,13,66,7,Yes
+Apex Gaming,Immortals,15,24,24,1.625,No
+Apex Gaming,Echo Fox,16,4,41,14.25,Yes
+Gravity,Team Dragon Knight,6,21,16,1.047619048,No
+Gravity,Cloud9,19,11,50,6.272727273,Yes
+Gravity,Counter Logic Gaming,9,23,25,1.47826087,No
+Gravity,Enemy,15,5,39,10.8,Yes
+Team 8,Team SoloMid,13,6,39,8.666666667,Yes
+Team 8,Dignitas,2,16,5,0.4375,No
+Team 8,Team Impulse,7,17,22,1.705882353,No
+Team 8,Gravity,13,16,38,3.1875,No
+Team Dragon Knight,Dignitas,16,10,45,6.1,Yes
+Team Dragon Knight,Team SoloMid,11,20,24,1.75,No
+Team Dragon Knight,Team Liquid,9,19,26,1.842105263,No
+Team Dragon Knight,Cloud9,22,9,47,7.666666667,Yes
+Enemy,Team 8,18,24,53,2.958333333,No
+Enemy,Counter Logic Gaming,1,15,1,0.1333333333,No
+Enemy,Team Dragon Knight,25,16,69,5.875,Yes
+Enemy,Cloud9,10,20,22,1.6,No
+Winterfox,Coast,20,5,51,14.2,Yes
+Winterfox,Team SoloMid,20,20,56,3.8,No
+Winterfox,Team Liquid,22,8,66,11,Yes
+Winterfox,Counter Logic Gaming,3,15,11,0.9333333333,No
+Coast,Team SoloMid,5,14,8,0.9285714286,No
+Coast,Team Liquid,7,21,19,1.238095238,No
+Coast,Team 8,9,20,22,1.55,No
+Coast,Dignitas,4,11,12,1.454545455,No
